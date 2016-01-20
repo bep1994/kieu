@@ -1,0 +1,8 @@
+dog 0
+cat 0
+monkey 0
+pig 0
+rabbit 0
+duck 1
+chicken 1
+horse 1
